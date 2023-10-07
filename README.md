@@ -1,3 +1,15 @@
+# Boiler Plate code for new component
+
+## ifyou have react extension installed:
+    type:
+    rfce
+
+    and it will bring up the boilerpalte for a new component
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

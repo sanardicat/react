@@ -4,7 +4,7 @@
     type:
     rfce
 
-    and it will bring up the boilerpalte for a new component
+    and it will bring up the boilerplate for a new component
 
 
 
